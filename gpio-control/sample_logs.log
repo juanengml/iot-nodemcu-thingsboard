@@ -1,0 +1,145 @@
+ 1384, room 16 
+tail 8
+chksum sdlܟ<⸮l⸮|⸮l⸮#|⸮⸮⸮⸮s⸮#⸮c⸮⸮'o⸮do'⸮⸮⸮cp⸮⸮dsdrd8⸮g⸮⸮lĜb'⸮|$⸮⸮c⸮⸮og⸮l⸮⸮l`⸮g'l`orǛ⸮'c⸮d{⸮⸮ob⸮l⸮⸮d⸮⸮⸮p⸮⸮d`⸮⸮n⸮Connecting to AP ...
+.......Connected to AP
+Connecting to ThingsBoard node ...[DONE]
+Sending current GPIO status ...
+Get gpio status: {"5":false,"4":false}
+;ld⸮⸮|⸮$⸮|⸮$⸮c|⸮⸮⸮⸮{⸮c⸮c⸮⸮o'⸮lno⸮⸮⸮bx⸮⸮l;l{lx⸮n⸮⸮d⸮⸮cg⸮|l⸮⸮c⸮⸮'o⸮$⸮⸮l`⸮ogl`'{⸮⸮⸮gc⸮ls⸮⸮nc⸮d⸮⸮l⸮⸮⸮8Ǆl ⸮⸮g⸮Connecting to AP ...
+.Connected to AP
+Connecting to ThingsBoard node ...[DONE]
+Sending current GPIO status ...
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/0
+Message: {"method":"getGpioStatus","params":"{}"}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/1
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/2
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/3
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/4
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/5
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/6
+Message: {"method":"getGpioStatus","params":"{}"}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/7
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/8
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/9
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/10
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/11
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/12
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/13
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/14
+Message: {"method":"setGpioStatus","params":{"pin":4,"enabled":true}}
+Get gpio status: {"5":true,"4":true}
+Get gpio status: {"5":true,"4":true}
+On message
+Topic: v1/devices/me/rpc/request/15
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":true}
+Get gpio status: {"5":false,"4":true}
+On message
+Topic: v1/devices/me/rpc/request/16
+Message: {"method":"setGpioStatus","params":{"pin":4,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/17
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/18
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/19
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/20
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/21
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/22
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/23
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":true}}
+Get gpio status: {"5":true,"4":false}
+Get gpio status: {"5":true,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/24
+Message: {"method":"setGpioStatus","params":{"pin":5,"enabled":false}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/25
+Message: {"method":"getGpioStatus","params":"{}"}
+Get gpio status: {"5":false,"4":false}
+On message
+Topic: v1/devices/me/rpc/request/26
+Message: {"method":"setGpioStatus","params":{"pin":3,"enabled":true}}
+Get gpio status: {"5":false,"4":false}
+Get gpio status: {"5":false,"4":false}
+
